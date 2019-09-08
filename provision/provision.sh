@@ -32,7 +32,7 @@ chmod 755 /usr/local/bin/composer
 
 curl -sL https://deb.nodesource.com/setup_11.x | bash -
 apt-get -y install nodejs
-npm install
+
 
 
 # Chrome
